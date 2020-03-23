@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1540092157 source:c:\users\roo\desktop\fall 2018\csci 301\projects\csci_301_prj_6\project_6\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Stacker.h"
+
+1540081772 source:c:\users\roo\desktop\fall 2018\csci 301\projects\csci_301_prj_6\project_6\postfix_cal.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"PostFix_Cal.h"
+
+1540070287 c:\users\roo\desktop\fall 2018\csci 301\projects\csci_301_prj_6\project_6\postfix_cal.h
+	<iostream>
+	<stack>
+	<string>
+
+1540091902 source:c:\users\roo\desktop\fall 2018\csci 301\projects\csci_301_prj_6\project_6\stacker.cpp
+	<iostream>
+	"Stacker.h"
+	<typeinfo>
+
+1540578073 c:\users\roo\desktop\fall 2018\csci 301\projects\csci_301_prj_6\project_6\stacker.h
+	<iostream>
+
